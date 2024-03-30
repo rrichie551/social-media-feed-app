@@ -1,0 +1,29 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "aac234798c872c9fc0f659b0984122d6"
+name = "social-feed-app"
+handle = "social-feed-app"
+application_url = "https://restrictions-activation-levitra-richard.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "quickstart-e65c4dd2.myshopify.com"
+include_config_on_deploy = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_products"
+
+[auth]
+redirect_urls = [
+  "https://restrictions-activation-levitra-richard.trycloudflare.com/auth/callback",
+  "https://restrictions-activation-levitra-richard.trycloudflare.com/auth/shopify/callback",
+  "https://restrictions-activation-levitra-richard.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-01"
+
+[pos]
+embedded = false
