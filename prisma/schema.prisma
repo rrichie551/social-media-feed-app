@@ -35,3 +35,5 @@ model QRCode {
   scans            Int      @default(0)
   createdAt        DateTime @default(now())
 }
+
+//Table for QR Code
