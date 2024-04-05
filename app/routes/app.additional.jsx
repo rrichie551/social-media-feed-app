@@ -21,6 +21,7 @@ export default function AdditionalPage() {
                 The app template comes with an additional page which
                 demonstrates how to create multiple pages within app navigation
                 Nice Right?
+                One more addition.
                 using{" "}
                 <Link
                   url="https://shopify.dev/docs/apps/tools/app-bridge"
