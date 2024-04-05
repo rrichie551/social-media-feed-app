@@ -23,6 +23,7 @@ export default function AdditionalPage() {
                 Nice Right?
                 One more addition.
                 One more
+                2 more.
                 using{" "}
                 <Link
                   url="https://shopify.dev/docs/apps/tools/app-bridge"
