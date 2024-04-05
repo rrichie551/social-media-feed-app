@@ -20,6 +20,7 @@ export default function AdditionalPage() {
               <Text as="p" variant="bodyMd">
                 The app template comes with an additional page which
                 demonstrates how to create multiple pages within app navigation
+                Nice Right?
                 using{" "}
                 <Link
                   url="https://shopify.dev/docs/apps/tools/app-bridge"
