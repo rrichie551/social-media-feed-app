@@ -22,6 +22,7 @@ export default function AdditionalPage() {
                 demonstrates how to create multiple pages within app navigation
                 Nice Right?
                 One more addition.
+                One more
                 using{" "}
                 <Link
                   url="https://shopify.dev/docs/apps/tools/app-bridge"
